@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_pratiche/psl_pratiche",
+items:[
+{foreignColumnName:"codice_categoria",primaryDataProviderID:"codice",typeid:23,uuid:"4845FAF6-6B9D-4BB5-8CAD-401533070C95"}
+],
+joinType:1,
+name:"psl_categorie_to_psl_pratiche",
+primaryDataSource:"db:/ma_pratiche/psl_categorie",
+typeid:22,
+uuid:"847B8602-C2B0-4562-960D-93689794D504"

@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_framework/psl_forms_processingstate",
+items:[
+{foreignColumnName:"elaboration_id",primaryDataProviderID:"elaboration_id",typeid:23,uuid:"ADA2932A-26E6-43DD-AE91-24915D840B6A"}
+],
+joinType:1,
+name:"psl_forms_uploads_to_psl_forms_processingstate",
+primaryDataSource:"db:/ma_framework/psl_forms_uploads",
+typeid:22,
+uuid:"2F406239-9B30-40B7-ABAD-F7ECDB09E582"

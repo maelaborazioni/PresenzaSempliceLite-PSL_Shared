@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_framework/psl_forms_uploads",
+items:[
+{foreignColumnName:"elaboration_id",primaryDataProviderID:"elaboration_id",typeid:23,uuid:"B749C8C3-5051-4677-AB24-2FC7CB63AF48"}
+],
+joinType:1,
+name:"psl_forms_processingstate_to_psl_forms_uploads",
+primaryDataSource:"db:/ma_framework/psl_forms_processingstate",
+typeid:22,
+uuid:"BBD490A0-A6D9-4A19-A6E8-4503570708AD"

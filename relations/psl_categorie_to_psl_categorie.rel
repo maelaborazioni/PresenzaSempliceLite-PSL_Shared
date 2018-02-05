@@ -1,0 +1,5 @@
+foreignDataSource:"db:/ma_pratiche/psl_categorie",
+name:"psl_categorie_to_psl_categorie",
+primaryDataSource:"db:/ma_pratiche/psl_categorie",
+typeid:22,
+uuid:"C7DF39BA-476D-482D-A5A0-059953EC79AD"

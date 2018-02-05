@@ -1,0 +1,10 @@
+foreignDataSource:"db:/ma_framework/psl_forms_uploads",
+items:[
+{foreignColumnName:"elaboration_id",primaryDataProviderID:"elaboration_id",typeid:23,uuid:"26EED94A-8D07-4139-BBE1-3D1149D9E635"},
+{foreignColumnName:"updated",primaryDataProviderID:"scopes.globals.TRUE",typeid:23,uuid:"DEA1DC0A-DAE9-4ED2-90A6-E0118E5D5A83"}
+],
+joinType:1,
+name:"psl_forms_processingstate_to_psl_forms_uploads_updated",
+primaryDataSource:"db:/ma_framework/psl_forms_processingstate",
+typeid:22,
+uuid:"0F0EC1C1-0C2E-46C3-A481-BFAA617DFA34"

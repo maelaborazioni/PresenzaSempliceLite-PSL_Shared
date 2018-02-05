@@ -1,0 +1,11 @@
+foreignDataSource:"db:/ma_framework/psl_forms_uploads",
+items:[
+{foreignColumnName:"upload_id",operator:5,primaryDataProviderID:"upload_id",typeid:23,uuid:"46926B6B-02D4-4B66-A7D0-DCAD9A1C8EA8"},
+{foreignColumnName:"form_id",primaryDataProviderID:"form_id",typeid:23,uuid:"CFE9B43C-0DA0-49B1-A90E-821FF9895FE7"},
+{foreignColumnName:"elaboration_id",primaryDataProviderID:"elaboration_id",typeid:23,uuid:"F0036846-07EE-4E86-AF99-C1448C512723"}
+],
+joinType:1,
+name:"psl_forms_uploads_to_psl_forms_uploads_duplicates",
+primaryDataSource:"db:/ma_framework/psl_forms_uploads",
+typeid:22,
+uuid:"BFDEBD6C-0A4A-4F0B-B74E-53B4D5349248"

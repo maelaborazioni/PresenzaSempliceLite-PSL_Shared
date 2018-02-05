@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_pratiche/psl_pratiche",
+items:[
+{foreignColumnName:"id_pratica",primaryDataProviderID:"id_pratica",typeid:23,uuid:"3ED37B00-1BA4-48FD-9065-894F573C0B28"}
+],
+joinType:1,
+name:"psl_moduli_to_psl_pratiche",
+primaryDataSource:"db:/ma_pratiche/psl_moduli",
+typeid:22,
+uuid:"123B79DD-182C-4D03-BE4E-8EE0FF9E47D5"

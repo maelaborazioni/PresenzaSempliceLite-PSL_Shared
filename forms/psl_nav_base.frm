@@ -1,0 +1,16 @@
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6CDDA38B-2250-48B5-84F7-C056AA327DAA"
+}
+],
+name:"psl_nav_base",
+navigatorID:"-1",
+onLoadMethodID:"-1",
+showInMenu:true,
+styleName:"psl",
+typeid:3,
+uuid:"63345C7B-6FF3-4375-8DA0-83E09819A950"

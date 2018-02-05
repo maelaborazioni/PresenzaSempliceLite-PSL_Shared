@@ -1,0 +1,9 @@
+foreignDataSource:"db:/svy_framework/sec_owner",
+items:[
+{foreignColumnName:"owner_id",primaryDataProviderID:"owner_id",typeid:23,uuid:"EE327FAF-BD9C-4447-A239-00056B40D88B"}
+],
+joinType:1,
+name:"psl_forms_processingstate_to_sec_owner",
+primaryDataSource:"db:/ma_framework/psl_forms_processingstate",
+typeid:22,
+uuid:"FED2C314-69D8-4966-A004-04B1CC7E4BAA"

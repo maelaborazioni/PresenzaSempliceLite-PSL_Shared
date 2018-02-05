@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_presenze/storico_datiaggiuntivi",
+items:[
+{foreignColumnName:"idstoricodatiaggiuntivi",primaryDataProviderID:"idstoricodatiaggiuntivi",typeid:23,uuid:"C25832C2-82A4-4AC5-970B-D431803FB575"}
+],
+joinType:1,
+name:"v_riepilogocertificati_to_storico_datiaggiuntivi",
+primaryDataSource:"db:/ma_presenze/v_riepilogocertificati",
+typeid:22,
+uuid:"788D849F-6F62-46F6-8636-C04DFD28151D"

@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Ordinari|O\r\
+Sostitutivi|S\r\
+Aggiuntivi|A\r\
+Statistici|T",
+name:"vls_classe_evento",
+typeid:34,
+uuid:"63E237DD-FEAF-447F-B6B1-EEB26EA57EB2"

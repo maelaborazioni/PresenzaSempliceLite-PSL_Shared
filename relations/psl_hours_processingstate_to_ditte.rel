@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_anagrafiche/ditte",
+items:[
+{foreignColumnName:"idditta",primaryDataProviderID:"company_id_cliente",typeid:23,uuid:"7D5C1A9F-BC07-425A-A682-835823784CE1"}
+],
+joinType:1,
+name:"psl_hours_processingstate_to_ditte",
+primaryDataSource:"db:/ma_framework/psl_hours_processingstate",
+typeid:22,
+uuid:"FF00C62F-6A44-48D0-92F2-5CED48E850F2"

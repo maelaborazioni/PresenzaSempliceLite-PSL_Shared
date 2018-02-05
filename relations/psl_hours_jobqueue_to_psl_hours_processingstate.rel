@@ -1,0 +1,14 @@
+foreignDataSource:"db:/ma_framework/psl_hours_processingstate",
+items:[
+{
+foreignColumnName:"elaboration_id",
+primaryDataProviderID:"elaboration_id",
+typeid:23,
+uuid:"DC53DF99-6334-42E8-A3C9-EED8D3916E37"
+}
+],
+joinType:1,
+name:"psl_hours_jobqueue_to_psl_hours_processingstate",
+primaryDataSource:"db:/ma_framework/psl_hours_jobqueue",
+typeid:22,
+uuid:"46F22FA0-FC6B-4BB6-B145-184AB997CAEE"

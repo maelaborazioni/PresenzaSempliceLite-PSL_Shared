@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_framework/psl_forms_processingstate",
+items:[
+{foreignColumnName:"dossier_id",primaryDataProviderID:"id_modulo",typeid:23,uuid:"F92DCAF8-B274-4D10-BF7D-D634EA777392"}
+],
+joinType:1,
+name:"psl_moduli_to_psl_forms_processingstate",
+primaryDataSource:"db:/ma_pratiche/psl_moduli",
+typeid:22,
+uuid:"36FD2BD2-CE22-49FD-B3BE-5D3DA2AEC195"

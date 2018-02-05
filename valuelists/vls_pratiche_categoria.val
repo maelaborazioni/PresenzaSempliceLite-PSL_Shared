@@ -1,0 +1,10 @@
+addEmptyValue:1,
+dataProviderID1:"nome",
+dataProviderID2:"codice",
+dataSource:"db:/ma_pratiche/psl_categorie",
+name:"vls_pratiche_categoria",
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"10F30797-92D4-43E5-8C0A-1317BB891F3D",
+valueListType:1

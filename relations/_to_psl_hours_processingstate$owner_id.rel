@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_framework/psl_hours_processingstate",
+items:[
+{foreignColumnName:"owner_id",primaryDataProviderID:"scopes.globals.svy_sec_lgn_owner_id",typeid:23,uuid:"5AAC52E0-F5AB-41C0-B249-532F060A2E45"}
+],
+joinType:1,
+name:"_to_psl_hours_processingstate$owner_id",
+primaryDataSource:"db:/ma_framework/psl_hours_processingstate",
+typeid:22,
+uuid:"A47C06B0-9EB1-451A-A7D2-86518847C915"

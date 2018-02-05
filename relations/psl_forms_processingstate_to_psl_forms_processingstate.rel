@@ -1,0 +1,6 @@
+foreignDataSource:"db:/ma_framework/psl_forms_processingstate",
+joinType:1,
+name:"psl_forms_processingstate_to_psl_forms_processingstate",
+primaryDataSource:"db:/ma_framework/psl_forms_processingstate",
+typeid:22,
+uuid:"C161DCA3-57A8-4A06-AE4B-953B5E9DB01D"

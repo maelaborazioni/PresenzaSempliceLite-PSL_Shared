@@ -1,0 +1,10 @@
+foreignDataSource:"db:/ma_pratiche/psl_pratiche",
+items:[
+{foreignColumnName:"id_pratica",operator:5,primaryDataProviderID:"id_pratica",typeid:23,uuid:"0BC1A8BB-E356-4C3D-85F4-4DBC470B799F"},
+{foreignColumnName:"codice_categoria",primaryDataProviderID:"codice_categoria",typeid:23,uuid:"3D098E90-911F-4652-84FC-5AFDDC943640"}
+],
+joinType:1,
+name:"psl_pratiche_to_psl_pratiche_escludi_corrente",
+primaryDataSource:"db:/ma_pratiche/psl_pratiche",
+typeid:22,
+uuid:"60CF569D-DB7A-47CB-AC9A-31F77BB6E991"

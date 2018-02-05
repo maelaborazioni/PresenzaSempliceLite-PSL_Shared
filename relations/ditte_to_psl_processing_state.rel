@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_framework/psl_hours_processingstate",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"idditta",typeid:23,uuid:"1EC0F626-F00E-459A-8E0A-E33B2B936029"}
+],
+joinType:1,
+name:"ditte_to_psl_hours_processingstate",
+primaryDataSource:"db:/ma_anagrafiche/ditte",
+typeid:22,
+uuid:"41AD6C7A-B82F-4DA2-87D2-F5D2F202A56C"

@@ -1,0 +1,13 @@
+addEmptyValue:1,
+customValues:"i18n:ma.psl.menu.home|home\r\
+i18n:ma.psl.menu.anagrafiche|anagrafiche\r\
+i18n:ma.psl.menu.pratiche|pratiche\r\
+i18n:ma.psl.menu.presenze|presenze\r\
+i18n:ma.psl.menu.magnacarta|magnacarta\r\
+i18n:ma.psl.menu.domanderisposte|domande_risposte\r\
+i18n:ma.psl.menu.calcolocosti|calcolo_costi\r\
+i18n:ma.psl.menu.storico_operazioni|storico_operazioni\r\
+i18n:ma.psl.menu.admin.pratiche|admin_pratiche",
+name:"vls_menu",
+typeid:34,
+uuid:"7CD8C15B-9B2A-43DF-A1E0-046D1B9BEB39"
