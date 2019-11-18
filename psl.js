@@ -212,8 +212,9 @@ var Sezioni =
 				anagrafiche,
 			/** @type {scopes.psl.Sezione} */PRESENZE			: 
 				new Sezione(values[i18n.getI18NMessage('ma.psl.menu.presenze')], 'icon-calendar', i18n.getI18NMessage('ma.psl.menu.presenze'), globals.Module.RILEVAZIONE_PRESENZE),
-			/** @type {scopes.psl.Sezione} */PRATICHE			: 
-				pratiche,
+//			Ticket 17117
+//			/** @type {scopes.psl.Sezione} */PRATICHE			: 
+//				pratiche,
 			/** @type {scopes.psl.Sezione} */MAGNACARTA		: 
 				new Sezione(values[i18n.getI18NMessage('ma.psl.menu.magnacarta')], 'icon-leaf', i18n.getI18NMessage('ma.psl.menu.magnacarta')),
 			/** @type {scopes.psl.Sezione} */DOMANDERISPOSTE	: 
@@ -226,7 +227,16 @@ var Sezioni =
 				new Sezione(values[i18n.getI18NMessage('ma.psl.menu.admin.pratiche')], 'icon-lock', i18n.getI18NMessage('ma.psl.menu.admin.pratiche'), globals.Module.UTILITY, globals.Key.ADMIN_PSL),
 			
 			asArray: function(){
-				return [this.HOME, this.ANAGRAFICHE, this.PRESENZE, this.PRATICHE, this.MAGNACARTA, this.DOMANDERISPOSTE, this.CALCOLOCOSTI, this.STORICO_OPERAZIONI, this.ADMIN_PRATICHE]
+				return [this.HOME, 
+						this.ANAGRAFICHE,
+						this.PRESENZE,
+						//Ticket 17117
+						//this.PRATICHE,
+						this.MAGNACARTA,
+						this.DOMANDERISPOSTE,
+						this.CALCOLOCOSTI,
+						this.STORICO_OPERAZIONI,
+						this.ADMIN_PRATICHE]
 			},
 			/**
 			 * @return {Array<scopes.psl.Sezione>}
